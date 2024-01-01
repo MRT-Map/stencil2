@@ -63,7 +63,7 @@ dirs = "5.0.1"
 zip = "0.6.6"
 bimap = { version = "0.6.3", features = ["serde"] }
 image = "0.24.7"
-winit = "0.28.7"
+winit = "0.29.8"
 
 hex_color = { version = "3.0.0", features = ["serde"] }
 itertools = "0.12.0"

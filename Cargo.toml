@@ -71,7 +71,7 @@ dirs = "5.0.1"
 zip = "2.1.0"
 bimap = { version = "0.6.3", features = ["serde"] }
 image = "0.25.1"
-winit = "0.29.15"
+winit = "0.30.2"
 chrono = "0.4.38"
 
 hex_color = { version = "3.0.0", features = ["serde"] }

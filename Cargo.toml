@@ -37,7 +37,7 @@ bevy_prototype_lyon = "0.13.0"
 bevy_asset_loader = "0.22.0"
 bevy-inspector-egui = "0.30.0"
 
-bevy_egui = "0.33.0"
+bevy_egui = "0.34.1"
 egui_commonmark = "0.20.0"
 egui_extras = "0.31.1"
 egui_dock = { version = "0.16.0", features = ["serde"] }

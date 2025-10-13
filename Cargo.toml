@@ -47,7 +47,7 @@ bevy_egui = "0.37.0"
 egui_commonmark = "0.21.1"
 egui_extras = "0.32.3"
 egui_dock = { version = "0.17.0", features = ["serde"] }
-egui-file-dialog = "0.11.0"
+egui-file-dialog = "0.12.0"
 egui-notify = "0.20.0"
 
 tracing = "0.1.41"

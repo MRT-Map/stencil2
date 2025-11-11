@@ -3,5 +3,12 @@
   "extends": [
     "github>mrt-map/renovate-config",
     ":pinAllExceptPeerDependencies"
+  ],
+  "packageRules": [
+    {
+      "matchPackageNames": ["rui314/setup-mold"],
+      "matchManagers": ["github-actions"],
+      "enabled": false
+    }
   ]
 }

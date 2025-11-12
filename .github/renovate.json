@@ -3,11 +3,5 @@
   "extends": [
     "github>mrt-map/renovate-config",
     ":pinAllExceptPeerDependencies"
-  ],
-  "packageRules": [
-    {
-      "matchPackageNames": ["awalsh128/cache-apt-pkgs-action"],
-      "pinDigests": false,
-    }
   ]
 }

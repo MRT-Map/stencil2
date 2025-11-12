@@ -3,5 +3,13 @@
   "extends": [
     "github>mrt-map/renovate-config",
     ":pinAllExceptPeerDependencies"
+  ],
+  "packageRules": [
+    {
+      "matchDepTypes": [
+        "action"
+      ],
+      "pinDigests": false
+    }
   ]
 }
